@@ -1,0 +1,38 @@
+
+.canvas{
+    margin:100px auto 100px;
+    text-align:center;
+    width:50%;
+}
+.button{
+    display: inline-block;
+    height: 50px;
+    width:50px;
+    border:2px solid black;
+    padding: 10px 15px 10px 15px;
+    margin-top:10px;
+    cursor:pointer;
+    color:white;
+
+ }
+span{
+   display: block;
+}
+#one{
+   background-color:grey;
+ }
+#two{
+   background-color:blue;
+}
+#three{
+   background-color:yellow;
+}
+ #four{
+   background-color:green;
+ }
+#five{
+  background-color:red;
+ }
+#six{
+  background-color:purple;
+}
