@@ -24,6 +24,9 @@ const shoppingCart = [
 
 
 const totaling= shoppingCart.reduce( (acc, item) => acc + item.price, 0 )
-console.log(totaling)
+console.log(totaling);
+
+
+
 
 
