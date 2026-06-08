@@ -1,0 +1,32 @@
+body{
+  background-color:rgb(100, 99, 99);
+}
+.container{
+  text-align:center;
+  margin:100px auto;
+}
+#height,#weight{
+  border:none;
+    border-radius:11px;
+  height:30px;
+  margin:13px;
+  font-size:14px;
+  font-weight:bold;
+}
+button{
+  border:none;
+  padding:15px 30px 15px 30px;
+  font-weight: bold;
+  font-size:20px;
+  border-radius:11px;
+  background-color:rgb(106, 255, 0);
+  margin-left:64px;
+}
+
+#results{
+  margin-top: 30px;
+  font-size: 18px;
+  font-family:  sans-serif;
+  color: rgb(246, 243, 246);
+ 
+}
